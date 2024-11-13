@@ -5,7 +5,7 @@
 Diagram of observer pattern, code for DLL, ColorPicker, and Character Controller. - Michael Atteh - 100831528 
 50%
 
-Diagram of Timer, Code for timer,  Write-Up, and Reflection-Dylan Dos Ramos - 100873698 
+Diagram of Timer, Code for timer,  Write-Up, and Reflection, Level Primitives -Dylan Dos Ramos - 100873698 
 50%
 
 # Reason for extra time
