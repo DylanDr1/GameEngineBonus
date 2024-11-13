@@ -8,6 +8,9 @@ The reason we needed the extra time is for some different reasons. Firstly, gith
 
 # Design Pattern
 
-The design pattern that we are going for is 
+Observer 
+
+The observer pattern was used for this project, when left clicking on the mouse, the text at the top of the screen, as well as the character changes between different colours. The colours swap through 5 different sets, the observer looks out for when an action is done by the user, this being a left click of the mouse button, doing this feedback is sent to the user that their action updated a part of the game. While it isn’t directly functionality/gameplay based, it allows the user to have a little bit of freedom with customization, letting them choose a colour they want, and what they want the title colour to be.
+
 
 # DLL
