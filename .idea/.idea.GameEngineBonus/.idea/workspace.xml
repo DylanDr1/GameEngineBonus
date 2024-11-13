@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c007d996-1151-41bf-883e-c345a0f989fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ColorPicker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameEngineBonus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameEngineBonus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Save1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColorPicker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColorPicker.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731424843768</updated>
       <workItem from="1731424844887" duration="10000" />
-      <workItem from="1731452064882" duration="5162000" />
+      <workItem from="1731452064882" duration="5544000" />
     </task>
     <servers />
   </component>

@@ -11,15 +11,14 @@ public class ColorPicker : MonoBehaviour
     public delegate void ColorChangedDelegate();
     public static ColorChangedDelegate OnColorChanged;
 
-    public TextMeshProUGUI colorText; // Assign this via the Inspector
+    public TextMeshProUGUI colorText; 
 
     public static int currentColorIndex = 0;
-    private int numberOfColors = 5; // Adjust this if you add more colors to the DLL
+    private int numberOfColors = 5; 
 
     void Start()
     {
-        ChangeColor(); // Initial color change
-    }
+        ChangeColor();     }
 
     void Update()
     {
@@ -59,7 +58,7 @@ public class ColorPicker : MonoBehaviour
             case "Purple":
                 return new Color(0.5f, 0f, 0.5f); // Custom color for purple
             default:
-                return Color.black; // Default to black if unknown
+                return Color.black; 
         }
     }
 }
